@@ -10,7 +10,7 @@ class Sum {
 
 	public static void main(String args[]){
 	Sum s= new Sum(10,20);
-	s.add();
+	s.add();// 2nd commit
 }
 }
 
